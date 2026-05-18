@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shronal Duwal</h1>
 <h3 align="center">A computer engineering student from Nepal</h3>
 
-- 🔭 I’m currently working on [nth rn]
+- 🔭 I’m currently working on [nth rn](https://github.com/shronal/OIBSIP)
 
 - 🌱 I’m currently learning **Frameworks (Django), python**
 
