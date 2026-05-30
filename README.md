@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks (Django), python**
 
-- 👨‍💻 All of my projects are available at [shronal.com.np](shronal.com.np)
+- 👨‍💻 All of my projects are available at [shronal.com.np]
 
 - 📫 How to reach me **shronalduwal999@gmail.com**
 
