@@ -10,7 +10,11 @@
 - 📫 How to reach me **shronalduwal999@gmail.com**
 
 - ⚡ Fun fact **My brain's default setting is 'debugging mode.'**
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="shronal's GitHub profile" src="dark_mode.svg" />
+</picture>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/shronalduwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shronalduwal" height="30" width="40" /></a>
